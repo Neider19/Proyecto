@@ -1,0 +1,23 @@
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\bin\Debug\net8.0-windows\PROYECTO 3.exe
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\bin\Debug\net8.0-windows\PROYECTO 3.deps.json
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\bin\Debug\net8.0-windows\PROYECTO 3.runtimeconfig.json
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\bin\Debug\net8.0-windows\PROYECTO 3.dll
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\bin\Debug\net8.0-windows\PROYECTO 3.pdb
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.INICIO.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.Properties.Resources.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.dll
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\refint\PROYECTO 3.dll
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.pdb
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO 3.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\ref\PROYECTO 3.dll
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.ESTUDIANTES.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.BIEMVENIDOS_ESTUDIANTES.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.BIENVENIDOS.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.MANTENIMIENTO.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.MAESTRO.resources
+C:\Users\Usuario\Documents\Poryectos\PROYECTO 3\obj\Debug\net8.0-windows\PROYECTO_3.INICIO_MAESTROS.resources

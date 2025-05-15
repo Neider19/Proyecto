@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:INICIO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\ESTUDIANTES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ESTUDIANTES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO_MAESTROS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:INICIO_MAESTROS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MAESTRO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MAESTRO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MANTENIMIENTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MANTENIMIENTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO_MAESTROS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:INICIO_MAESTROS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\BIENVENIDOS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BIENVENIDOS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\bienvenidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bienvenidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INICIO.cs",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO.cs",
+              "RelativeDocumentMoniker": "INICIO.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO.cs",
+              "RelativeToolTip": "INICIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:29:22.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ESTUDIANTES.cs",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\ESTUDIANTES.cs",
+              "RelativeDocumentMoniker": "ESTUDIANTES.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\ESTUDIANTES.cs",
+              "RelativeToolTip": "ESTUDIANTES.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:59:55.782Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MAESTRO.cs",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MAESTRO.cs",
+              "RelativeDocumentMoniker": "MAESTRO.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MAESTRO.cs",
+              "RelativeToolTip": "MAESTRO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAArwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:18:14.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MANTENIMIENTO.cs",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MANTENIMIENTO.cs",
+              "RelativeDocumentMoniker": "MANTENIMIENTO.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MANTENIMIENTO.cs",
+              "RelativeToolTip": "MANTENIMIENTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:32:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INICIO_MAESTROS.cs",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO_MAESTROS.cs",
+              "RelativeDocumentMoniker": "INICIO_MAESTROS.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO_MAESTROS.cs",
+              "RelativeToolTip": "INICIO_MAESTROS.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:29:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INICIO_MAESTROS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO_MAESTROS.cs",
+              "RelativeDocumentMoniker": "INICIO_MAESTROS.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO_MAESTROS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "INICIO_MAESTROS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:21:23.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MAESTRO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MAESTRO.cs",
+              "RelativeDocumentMoniker": "MAESTRO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\MAESTRO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\MAESTRO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:10:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MANTENIMIENTO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\MANTENIMIENTO.cs",
+              "RelativeDocumentMoniker": "MANTENIMIENTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\MANTENIMIENTO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\MANTENIMIENTO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:02:47.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BIENVENIDOS.cs",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\BIENVENIDOS.cs",
+              "RelativeDocumentMoniker": "BIENVENIDOS.cs",
+              "ToolTip": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\BIENVENIDOS.cs",
+              "RelativeToolTip": "BIENVENIDOS.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA6wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:00:08.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BIENVENIDOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\BIENVENIDOS.cs",
+              "RelativeDocumentMoniker": "BIENVENIDOS.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\BIENVENIDOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\BIENVENIDOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:58:44.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INICIO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\neide\\Downloads\\PROYECTO 3-20250514T145205Z-1-001\\PROYECTO 3\\INICIO.cs",
+              "RelativeDocumentMoniker": "INICIO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\INICIO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Usuario\\Documents\\Poryectos\\PROYECTO 3\\INICIO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:28:23.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
